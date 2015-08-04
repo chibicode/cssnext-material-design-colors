@@ -1,0 +1,22 @@
+{
+  "name": "cssnext-material-design-colors",
+  "version": "1.0.0",
+  "description": "cssnext compatible colors for Google's material design",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chibicode/cssnext-material-design-colors.git"
+  },
+  "keywords": [
+    "cssnext"
+  ],
+  "author": "Shu Uesugi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chibicode/cssnext-material-design-colors/issues"
+  },
+  "homepage": "https://github.com/chibicode/cssnext-material-design-colors#readme"
+}
