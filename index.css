@@ -275,4 +275,15 @@
   --md-white: #ffffff;
 
   --md-black: #000000;
+
+  --md-dark-primary-text: rgba(0, 0, 0, .87);
+  --md-dark-secondary-text: rgba(0, 0, 0, .54);
+  --md-dark-disabled-text: rgba(0, 0, 0, .26);
+
+  --md-light-primary-text: rgba(255, 255, 255, 1);
+  --md-light-secondary-text: rgba(255, 255, 255, .7);
+  --md-light-disabled-text: rgba(255, 255, 255, .3);
+
+  --md-dark-divider: rgba(0, 0, 0, .12);
+  --md-light-divider: rgba(255, 255, 255, .12);
 }
