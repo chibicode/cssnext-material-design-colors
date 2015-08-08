@@ -1,6 +1,6 @@
 {
   "name": "cssnext-material-design-colors",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "cssnext compatible colors for Google's material design",
   "main": "index.css",
   "scripts": {
